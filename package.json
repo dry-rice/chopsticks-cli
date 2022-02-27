@@ -1,0 +1,10 @@
+{
+  "name": "henshan-cli",
+  "description": "henshan-cli dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
