@@ -1,6 +1,6 @@
 {
   "name": "@henshan-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "henshan-cli core",
   "author": "ghlyibu <1091291816@qq.com>",
   "homepage": "",
@@ -21,6 +21,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "devDependencies": {
-    "@henshan-cli/utils":"^1.0.0"
+    "@henshan-cli/utils": "^1.0.1"
   }
 }
