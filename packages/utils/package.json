@@ -1,7 +1,7 @@
 {
-  "name": "@henshan-cli/utils",
-  "version": "1.0.1",
-  "description": "henshan-cli utils",
+  "name": "@hengshan/cli-utils",
+  "version": "0.0.1",
+  "description": "hengshan cli-utils",
   "author": "ghlyibu <1091291816@qq.com>",
   "homepage": "",
   "license": "ISC",
