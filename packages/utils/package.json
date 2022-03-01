@@ -19,5 +19,9 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "npmlog": "^6.0.1"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "henshan-cli",
+  "name": "@hengshan/cli",
   "description": "henshan-cli dev",
   "version": "0.0.1",
   "main": "index.js",

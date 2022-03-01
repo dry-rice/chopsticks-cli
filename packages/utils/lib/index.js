@@ -1,7 +1,6 @@
 'use strict';
+const log = require('./log');
 
-module.exports = utils;
-
-function utils() {
-    // TODO
-}
+module.exports = {
+    log
+};
